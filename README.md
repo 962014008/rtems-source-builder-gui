@@ -1,4 +1,4 @@
-RTEMS Graphical User Interface Source Builder
+RTEMS GUI Source Builder
 ========================
 A graphical user interface for the RTEMS Source Builder. Still in progress!
 
