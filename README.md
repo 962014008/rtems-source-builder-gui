@@ -1,4 +1,4 @@
-rtems-source-builder-gui
+RTEMS Graphical User Interface Source Builder
 ========================
 A graphical user interface for the RTEMS Source Builder. Still in progress!
 
@@ -10,3 +10,5 @@ Instructions:
 1. Place the contents in: rtems-source-builder\source-builder\GUI\
 
 2. Run main.py
+
+3. Grab a glass of lemonade and enjoy.
